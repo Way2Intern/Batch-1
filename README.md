@@ -1,7 +1,7 @@
 # Batch-1
 
 ## What is Way2Intern ?
-Way to intern is a mentorship program by three yong enthusiast Kanak, Deepak and Ankita. These are passion-driven individuals who like to contribute to the community by being your helping hand in providing you with guidance and resources so that you can grab paid internships.
+Way to intern is a mentorship program by three young enthusiast Kanak, Deepak and Ankita. These are passion-driven individuals who like to contribute to the community by being your helping hand in providing you with guidance and resources so that you can grab paid internships.
 
 ## How to connect ?
 
