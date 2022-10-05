@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "6a96639e6945b16b",
+    "type": "split",
+    "children": [
+      {
+        "id": "846a332dac7d7ced",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "365 Days/Day2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc2fc3f71cbfe00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f232a9e6819ec9e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845f2558f5c3a48b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "042213a7e86ccbc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4dfa453349e45c1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f0b7bf47bc4da22",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a41d41f3c8e10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe0a784fe269420",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "365 Days/Day2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "058b7f7b5db3d30e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "365 Days/Day2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad8a351f61b29d08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa0fa5a3afcd4f29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "365 Days/Day2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "846a332dac7d7ced",
+  "lastOpenFiles": [
+    "365 Days/Day 1.md"
+  ]
+}
